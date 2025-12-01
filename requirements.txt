@@ -1,0 +1,4 @@
+Cython>=0.29.0
+networkx>=2.5
+matplotlib>=3.3.0
+numpy>=1.19.0
